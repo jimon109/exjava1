@@ -14,7 +14,7 @@ public class ex3 {
         System.out.print("ป้อนอายุ>> ");
         int age =SC.nextInt();
 
-        System.out.print("ป้อนอายุ>> ");
+        System.out.print("ป้อนที่อยู่>> ");
         String address = SC.next();
 
         System.out.printf("ชื่อ: %s,อายุ: %s",fname,age,address);
